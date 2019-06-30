@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="bt1">Button</string>
+    <string name="change">change</string>
+    <string name="todo">todo</string>
+    <string name="visible">visible</string>
+</resources>
